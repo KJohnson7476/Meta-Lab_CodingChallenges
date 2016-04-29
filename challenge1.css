@@ -1,0 +1,379 @@
+div#outer {
+	position: relative;
+	width: 1000px;
+	height: 800px;
+	margin: 15px auto;
+}
+
+div#top {
+	position: relative;
+	width: 1000px;
+	height: 200px;
+	float: left;
+}
+
+div#tbox1 {
+	position: absolute;
+	width: 400px;
+	height: 200px;
+	background-color: 4890d8;
+	float: left;
+}
+
+div#tbox1a {
+	top: 75px;
+	left: 50px;
+	background-color: 484848;
+}
+
+div#tbox1b {
+	width: 100px;
+	top: 75px;
+	left: 150px;
+	background-color: 484848;
+}
+
+div#tbox1c {
+	top: 75px;
+	left: 300px;
+	background-color: 484848;
+}
+
+div#tbox2 {
+	left: 400px;
+	background-color: f0f018;
+}
+
+div#tbox2a {
+	top: 0px;
+	left: 0px;
+	background-color: 484848;
+}
+
+div#tbox2b {
+	right: 0px;
+	bottom: 0px;
+	background-color: 484848;
+}
+
+div#tbox3 {
+	left: 600px;
+	background-color: d8d8d8;
+}
+
+div#tbox3a {
+	left: 75px;
+	top: 75px;
+	background-color: 484848;
+}
+
+div#tbox4 {
+	position: absolute;
+	width: 100px;
+	height: 200px;
+	background-color: d81830;
+	right: 100px;
+}
+
+div#tbox5 {
+	right: 0px;
+	top: 0px;
+	background-color: 48d8c0;
+}
+
+div#tbox6 {
+	right: 0px;
+	bottom: 0px;
+	background-color: 484848;
+}
+
+div#mid1 {
+	position: relative;
+	width: 1000px;
+	height: 100px;
+	top: 200px;
+}
+
+div#mid1box1 {
+	left: 0px;
+	background-color: d81830;
+}
+
+div#mid1box2 {
+	left: 50px;
+	background-color: f0f018;
+}
+
+div#mid1box3 {
+	left: 100px;
+	background-color: d81830;
+}
+
+div#mid1box4 {
+	left: 150px;
+	background-color: f0f018;
+}
+
+div#mid1box5 {
+	left: 200px;
+	background-color: c018d8;
+}
+
+div#mid1box6 {
+	bottom: 0px;
+	background-color: f0a818;
+}
+
+div#mid1box7 {
+	left: 400px;
+	bottom: 0;
+	background-color: 487800;
+}
+
+div#mid1box8 {
+	right: 0px;
+	background-color: 9018ff;
+}
+
+div#mid2 {
+	position: relative;
+	width: 1000px;
+	height: 400px;
+	top: 200px;
+}
+
+div#mid2box1 {
+	left: 0px;
+	background-color: 484848;
+
+}
+
+div#mid2box2 {
+	top: 200px;
+	left: 0px;
+	background-color: f0f018;
+}
+
+div#mid2box3 {
+	top: 200px;
+	left: 100px;
+	background-color: f0a818;
+}
+
+div#mid2box4 {
+	top: 300px;
+	left: 0px;
+	background-color: f0a818;
+}
+
+div#mid2box5 {
+	top: 300px;
+	left: 100px;
+	background-color: d8d8d8;
+}
+
+div#mid2box6 {
+	position: absolute;
+	width: 300px;
+	height: 400px;
+	left: 200px;
+	background-color: d81830;
+}
+
+div#mid2box7 {
+	top: 0px;
+	left: 0px;
+	background-color: ffffff;
+}
+
+div#mid2box8 {
+	left: 0px;
+	bottom: 0px;
+	background-color: ffffff;
+}
+
+div#mid2box9 {
+	left: 100px;
+	bottom: 150px;
+	background-color: ffffff;
+}
+
+div#mid2box10 {
+	top: 0px;
+	right: 0px;
+	background-color: ffffff;
+}
+
+div#mid2box11 {
+	right: 0px;
+	bottom: 0px;
+	background-color: ffffff;
+}
+
+div#mid2box12 {
+	left: 500px;
+	background-color: 78d818;
+}
+
+div#mid2box13 {
+	left: 550px;
+	background-color: ffffff;
+}
+
+div#mid2box14 {
+	left: 600px;
+	background-color: 78d818;
+}
+
+div#mid2box15 {
+	left: 650px;
+	background-color: ffffff;
+}
+
+div#mid2box16 {
+	left: 700px;
+	background-color: 78d818;
+}
+
+div#mid2box17 {
+	left: 750px;
+	background-color: ffffff;
+}
+
+div#mid2box18 {
+	top: 50px;
+	left: 500px;
+	background-color: d8d8d8;
+}
+
+div#mid2box19 {
+	top: 100px;
+	left: 500px;
+	background-color: 487800;
+}
+
+div#mid2box20 {
+	top: 150px;
+	left: 500px;
+	background-color: d8d8d8;
+}
+
+div#mid2box21 {
+	height: 200px;
+	top: 200px;
+	left: 500px;
+	background-color: 48d8c0;
+}
+
+div#mid2box22 {
+	top: 0px;
+	right: 0px;
+	background-color: 484848;
+}
+
+div#mid2box23 {
+	top: 200px;
+	right: 0px;
+	background-color: d8d8d8;
+}
+
+div#bot {
+	position: relative;
+	width: 1000px;
+	height: 100px;
+	top: 200px;
+}
+
+div#botbox1 {
+	top: 0px;
+	background-color: 9018ff;
+}
+
+div#botbox2 {
+	left: 400px;
+	background-color: c018d8;
+}
+
+div#botbox3 {
+	top: 50px;
+	left: 400px;
+	background-color: 487800;
+}
+
+div#botbox4 {
+	top: 0px;
+	right: 150px;
+	background-color: f0f018;
+}
+
+div#botbox5 {
+	top: 0px;
+	right: 100px;
+	background-color: d81830;
+}
+
+div#botbox6 {
+	top: 0px;
+	right: 50px;
+	background-color: f0f018;
+}
+
+div#botbox7 {
+	top: 0px;
+	right: 0px;
+	background-color: d81830;
+}
+
+div#botbox8 {
+	top: 50;
+	right: 0;
+	background-color: f0a818;
+}
+
+.square {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+}
+
+.smallsquare {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+}
+
+.medsquare {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+}
+
+.thinlongrec {
+	position: absolute;
+	width: 400px;
+	height: 50px;
+}
+
+.thinmedrec {
+	position: absolute;
+	width: 300px;
+	height: 50px;
+}
+
+.thinshortrec {
+	position: absolute;
+	width: 200px;
+	height: 50px;
+}
+
+.thickrec {
+	position: absolute;
+	width: 400px;
+	height: 100px;
+}
+
+
+
+
+
+
